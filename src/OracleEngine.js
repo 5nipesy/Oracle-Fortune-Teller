@@ -1,3 +1,5 @@
+#!/usr/bin/env node2
+
 let GE1 = 0.5;
 let GE2 = 0.5;
 let GE3 = 0.5;
