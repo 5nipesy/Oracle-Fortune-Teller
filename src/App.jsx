@@ -1,4 +1,6 @@
 import { useState } from 'react'
+res.setHeader('Content-Type', 'application/javascript');
+res.setHeader('Content-Type', 'text/css'); 
 
 function App() {
   const [count, setCount] = useState(0)
